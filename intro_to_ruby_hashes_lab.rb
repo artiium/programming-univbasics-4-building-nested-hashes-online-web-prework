@@ -1,5 +1,7 @@
 def base_hash
-  arbyummi_family = {
+  college_football_teams = {
+    :sec => {"Alabama" => {:mascot => "Roll Tide", :colors => "Red"}
+    
     
   }
   # Remember implicit return! We're returning this new Hash _without_ the
