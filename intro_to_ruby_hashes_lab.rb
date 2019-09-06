@@ -1,6 +1,6 @@
 def base_hash
   college_football_teams = {
-    :sec => {"Alabama" => {:mascot => "Roll Tide", :colors => "Red"}
+    :sec => {"Alabama" => {:mascot => "Roll Tide", :colors => "Red"},
     "Florida" => {:mascot => "Gators", :colors => "Orange_Blue"}},
     
     
